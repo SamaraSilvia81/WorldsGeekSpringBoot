@@ -1,0 +1,64 @@
+# USER
+
+{
+  "userId": 9,
+  "username": "Marcio",
+  "email": "marcio@test.gmail.com",
+  "password": "pwe"
+}
+ 
+ # CHARACTERS
+ 
+ {
+    "charname": "Thanos",
+    "photo": "https:\\th.bing.com\\th\\id\\R.bdd3968d3b5f18f38475067bbb4824bf?rik=MShhzt4ks7bMlA&pid=ImgRaw&r=0",
+    "about": "Using the power of the Infinity Stones, Thanos believes he can ultimately save the universe by wiping out half of its population.",
+    "isMarvel": true,
+    "isHero": true
+},
+{
+    "charname": "Groot",
+    "photo": "https:\\th.bing.com\\th\\id\\OIP.ibJZVnJyQZ9jkXz-8OkIhwHaEK?pid=ImgDet&rs=1",
+    "about": "Alien Three Cute",
+    "isMarvel": true,
+    "isHero": true
+}
+{
+    "charname": "Loki",
+    "photo": "https://i.pinimg.com/736x/3b/84/30/3b8430d948f168b6a7bf987a7b7a3eb1.jpg",
+    "about": "Using the power of the Infinity Stones, Thanos believes he can ultimately save the universe by wiping out half of its population.",
+    "isMarvel": true,
+    "isHero": true
+},
+{
+    "charname": "Thor",
+    "photo": "https://nypost.com/wp-content/uploads/sites/2/2017/11/mcdthra_ec010.jpg?quality=90&strip=all&w=1200",
+    "about": "Alien Three Cute",
+    "isMarvel": true,
+    "isHero": true
+}
+
+# LISTS
+
+[
+    {
+        "listId": 13,
+        "listname": "Lista De Samara",
+        "user": {
+            "userId": 7,
+            "username": "Samara",
+            "email": "samara@test.gmail.com",
+            "password": "senha123"
+        },
+        "characters": [
+            {
+                "characterId": 7,
+                "charname": "Loki - Deus da Mentira",
+                "photo": "/app/https:/i.pinimg.com/736x/3b/84/30/3b8430d948f168b6a7bf987a7b7a3eb1.jpg",
+                "about": "Using the power of the Infinity Stones, Thanos believes he can ultimately save the universe by wiping out half of its population.",
+                "isMarvel": true,
+                "isHero": true
+            }
+        ]
+    }
+]
