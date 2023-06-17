@@ -34,16 +34,9 @@ public class ListController {
         return listRepository.findAll();
     }
 
-     @GetMapping("/{listId}")
-    public ResponseEntity<ListEntity> getListById(@PathVariable Long listId) {
-        Optional<ListEntity> listEntityOptional = listRepository.findById(listId);
-
-        if (listEntityOptional.isPresent()) {
-            ListEntity listEntity = listEntityOptional.get();
-            return ResponseEntity.ok(listEntity);
-        } else {
-            return ResponseEntity.notFound().build();
-        }
+    @GetMapping("/{listId}")
+    public ListEntity getList(@PathVariable Long listId) {
+        return listRepository.findById(listId).orElse(null);
     }
 
     @PostMapping
