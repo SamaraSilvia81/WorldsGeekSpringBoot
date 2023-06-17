@@ -34,6 +34,18 @@ public class ListController {
         return listRepository.findAll();
     }
 
+     @GetMapping("/{listId}")
+    public ResponseEntity<ListEntity> getListById(@PathVariable Long listId) {
+        Optional<ListEntity> listEntityOptional = listRepository.findById(listId);
+
+        if (listEntityOptional.isPresent()) {
+            ListEntity listEntity = listEntityOptional.get();
+            return ResponseEntity.ok(listEntity);
+        } else {
+            return ResponseEntity.notFound().build();
+        }
+    }
+
     @PostMapping
     public String createList(@RequestBody ListEntity listEntity) {
         // Verificar se o usuário existe
