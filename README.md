@@ -32,14 +32,10 @@ Assim, pelo acesso facilitado a tais informações, o usuário poderá usufruir 
 ## Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="react-native" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="redux" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="react-native-paper" height="100" width="150" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/833dd09a-e47f-42eb-94a2-e36ce02d34aa">
-  <img align="center" alt="tanstack-query" height="150" width="100" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/613489bb-389f-4576-b50b-edde9a8ab04d">
-  <img align="center" alt="nodejs" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="postgreesql" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="sequelize" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg">
+   <img align="center" alt="springboot" height="100" width="100" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/8fb65e4b-8194-4c5f-b4de-e548379de617">
+  <img align="center" alt="mysql" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="postman" height="100" width="100" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/8b7f942c-029f-461a-9bab-660b007b4f0d">
+  <img align="center" alt="inteliji" height="100" width="100" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/7f716afc-7615-4610-9fd4-1aa326779c87">
    <img align="center" alt="railway" height="100" width="100" src="https://github.com/SamaraSilvia81/WorldsGeekSpringBoot/assets/100232025/65ef20c2-362b-4a0d-9f58-3d4c0af7fb77">
 </div>
 
