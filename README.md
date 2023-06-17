@@ -53,26 +53,5 @@ A entidade CHARACTER foi criada para expor os dados mais cruciais acerca dos doi
 ![Gwen](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0f8e9ec4-a2dc-48f1-9f1f-0a3c9f7f338b)
 A entidade LIST foi criada para que o usuário pudesse interagir com o app guardando em uma "lista" os seus personagens favoritos.
 
-## Requisitos Funcionais
-![Wanda](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0b6ace94-b092-420f-b7b4-65fe665bf7d3)
-
-### Criação da conta e login 
-Essa funcionalidade conta com a inserção do nome/email e senha do usuário. Ela, por sua vez, estará disposta na segunda tela que aparece para o geek que inicialmente irá navegar para a parte inferior da tela, clicando em "SignUP" para se cadastrar e após ter feito isso e queira entrar no app é só fazer o login.
-
-### Visualização de Personagens
-Tendo feito, o cadastro no app ou realizado o login, o usuário terá acesso aos recursos do app, no qual inclui a prima visa a visualização dos personagens. Para isso, ele terá que selecionar que tipo de personagem quer vê clicando em um dos cards "Marvel" ou "DC" e depois repetirá o mesmo processo, mas agora para decidir se quer vê um "Herói" ou "Vilão".
-
-### Página de Personagens
-Essa página é onde estará os dados dos personagens, no caso o seu nome, altergo, atributos, relacionamentos, poderes e ademais características. Além de, ter a opção para adicionar esse personagem a alguma lista existente, apenas clicando no botão "Add to List".
-
-### Criação e Visualização de Listas
-Na barra de navegação inferior do app, o usuário poderá escolher entre ir para a tela home, no qual verá os personagens ou visualizar/criar a sua lista. Quando ele navegar para essa página logo de imediato conterá uma lista chamada "MyList" gerada automaticamente pelo sistema, mas clicando no botão, localizado no lado extremo direito superior, poderá criar uma inserindo o seu nome.
-
-### Editar e Deletar lista
-Ainda na página de listas, o usuário verá que no card de lista tem dois botões um para editar e outro para deletar.
-
-### Personagens da Lista
-Tendo visualizado suas listas, quando o usuário clicar em uma aparecerá no primeiro contato verá apenas um botão no meio da página para adicionar um personagem. Depois disso, ele poderá vê o card dos personagens que ele adicionou e na parte extrema superior direita verá um botão para adicionar mais caso queira.
-
 ## Squad
 ![GeeksWorldShow](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/13d91006-6a1e-4ac8-a53e-a766ab58205b)
